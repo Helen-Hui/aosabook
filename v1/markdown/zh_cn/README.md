@@ -42,7 +42,7 @@ AOSA电子书版本中有免费的HTML版，也有收费的PDF和ePub等版本�
  - 第1章 译完已提交Pull Request到主干
  - 第2章 hongbin working
  - 第3章 待认领
- - 第4章 待认领
+ - 第4章 Helen working
  - 第5章 moonshadow working
  - 第6章 待认领
  - 第7章 待认领
